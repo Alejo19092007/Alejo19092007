@@ -38,14 +38,6 @@ Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de Alejandro](https://github-readme-stats.vercel.app/api?username=Alejo19092007&show_icons=true&theme=tokyonight&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo19092007&layout=compact&theme=tokyonight&locale=es)
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-jimenez-90362440b)
