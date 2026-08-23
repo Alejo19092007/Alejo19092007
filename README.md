@@ -1,6 +1,6 @@
 # Hola, soy Alejandro Jiménez 👋
 
-Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB), apasionado por el desarrollo de software, la inteligencia artificial y el desarrollo móvil.
+Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB), apasionado por el desarrollo de software, la inteligencia artificial y el desarrollo web.
 
 ---
 
@@ -8,7 +8,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga
 
 - 🎓 Estudiante de Ing. de Sistemas — UNAB, Bucaramanga
 - 📱 Desarrollo aplicaciones Android con **Kotlin** y **Android Studio**
-- ☁️ Certificado en **AWS Data Engineering** y **AWS Machine Learning Foundations**
+- ☁️ Certificado en **AWS Data Engineering** , **AWS Machine Learning Foundations** y **CISCO Linux Unhatched**
 - 🤖 Interesado en **Inteligencia Artificial** y **Data Engineering**
 - 🌐 Construyendo proyectos con **HTML**, **CSS** y **JavaScript**
 - 🔍 Abierto a prácticas y oportunidades remotas
@@ -32,6 +32,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga
 
 - ☁️ AWS Academy Graduate — Data Engineering
 - 🤖 AWS Academy Graduate — Machine Learning Foundations
+- 🤖 CISCO-Linux Unhatched
 - 🌐 JavaScript Essentials 1 — Cisco Networking Academy
 - 🧠 Google: Inteligencia Artificial y Productividad
 - 💬 Fundamentos de ChatGPT — Santander Open Academy
