@@ -25,7 +25,7 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad Autónoma de Bucaram
 | [**Facebook API**](https://github.com/Alejo19092007/Facebook-API) | API REST tipo red social: publicaciones con imágenes, comentarios, likes y autenticación con tokens | Laravel, PostgreSQL, Docker, Render |
 | [**GPS BGA**](https://github.com/Alejo19092007/GPS-BGA) | Apps Android de rutas para Bucaramanga (conductor y usuario) | Kotlin, Jetpack Compose, Firebase, Google Maps |
 | [**Modelos de ML – Google Play Store**](https://github.com/Saulcs-hub/Proyecto_Final_IA) | Comparación de 5 modelos de clasificación (Random Forest, Gradient Boosting, KNN, etc.) desplegados en una app web | Python, scikit-learn, Streamlit |
-| [**NEXUS TECH**](https://github.com/Alejo19092007/proyecto-de-clase) | E-commerce de tecnología con interfaz futurista | Laravel 12, Blade, PHP |
+| [**Red Acopio**](https://github.com/Juan-David-git/red-acopio) | Plataforma para coordinar donaciones entre donantes, conductores voluntarios y centros de acopio de Bucaramanga, con mapas y rutas. Arquitectura por capas y patrón State | Python, JavaScript, Leaflet, OSRM, Render |
 
 ---
 
