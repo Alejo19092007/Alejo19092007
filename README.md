@@ -24,7 +24,8 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad Autónoma de Bucaram
 | [**StagePass Live**](https://github.com/Alejo19092007/stagepass-live) | Plataforma de venta de boletería con arquitectura hexagonal (puertos y adaptadores) | Python, FastAPI, pytest, Docker |
 | [**Facebook API**](https://github.com/Alejo19092007/Facebook-API) | API REST tipo red social: publicaciones con imágenes, comentarios, likes y autenticación con tokens | Laravel, PostgreSQL, Docker, Render |
 | [**GPS BGA**](https://github.com/Alejo19092007/GPS-BGA) | Apps Android de rutas para Bucaramanga (conductor y usuario) | Kotlin, Jetpack Compose, Firebase, Google Maps |
-| [**Clustering App**](https://github.com/Alejo19092007/clustering.app) | App para hacer clustering jerárquico sobre cualquier CSV, con métricas de calidad | Python, scikit-learn, Streamlit |
+| [**Modelos de ML – Google Play Store**](https://github.com/Saulcs-hub/Proyecto_Final_IA) | Comparación de 5 modelos de clasificación (Random Forest, Gradient Boosting, KNN, etc.) desplegados en una app web | Python, scikit-learn, Streamlit |
+| [**NEXUS TECH**](https://github.com/Alejo19092007/proyecto-de-clase) | E-commerce de tecnología con interfaz futurista | Laravel 12, Blade, PHP |
 
 ---
 
